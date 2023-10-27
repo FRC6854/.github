@@ -2,7 +2,7 @@
     <h1 align="center">FRC 6854 - Viking Robotics</h1>
 </p>
 
-![Our 2023 Robot](picture.png "Freebird")
+![Our 2023 Robot](/PROFILE/picture.png "Freebird")
 
 
 <p align="center">
