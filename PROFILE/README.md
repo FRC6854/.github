@@ -6,5 +6,5 @@
 
 
 <p align="center">
-    The Official GitHub organization for FIRST Robotics Competition Team 6854
+    The Official GitHub organization for the FIRST Robotics Competition Team 6854
 </p>
